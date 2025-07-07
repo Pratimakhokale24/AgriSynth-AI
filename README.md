@@ -1,7 +1,3 @@
-You will get live app here " "
-
-
-
 ## Run Locally
 
 **Prerequisites:**  Node.js
